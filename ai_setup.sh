@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 set -euo pipefail
-
+# Created By Pratik Jhaveri
 # ========= CONFIG =========
 CODE_MODEL_NAME="codellama-7b-instruct.Q4_K_M.gguf"
 CODE_MODEL_URL="https://huggingface.co/TheBloke/CodeLlama-7B-Instruct-GGUF/resolve/main/codellama-7b-instruct.Q4_K_M.gguf?download=true"

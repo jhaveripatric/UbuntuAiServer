@@ -1,19 +1,3 @@
-DELL LAPTOP
-
-Processor Type: Intel(R) Core(Tm) i3-7100U CPU @ 2.40GHz
-Core Count = 2
-Processor Id = 806e9
-Processor L2 Cache = 512KB
-Processor L3 Cache = 3072KB
-HT capable = Yes
-64-Bit Technology = Yes (Intel EM64T)
-Memory Installed = 49152MB
-Memory Channel = Dual
-Memory Technology = DDR4 SDRAM
-DIMM A Size = 32768MB
-DIMM B Size = 16384MB
-SATA-0 => Type = 1024GB HDD -> DEVICE ID = FIKWOT FX815 1TB
-
 
 AI INSTALL
 
